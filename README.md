@@ -1,5 +1,5 @@
-# Indecision App
-This is the first project for the udemy course https://www.udemy.com/react-2nd-edition/learn/v4/overview
+# Expensify App
+This is the second project for the udemy course https://www.udemy.com/react-2nd-edition/learn/v4/overview
 This page will serve as a notes platform to track helpful things to be aware of.
 
 # Packages
