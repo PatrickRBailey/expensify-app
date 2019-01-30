@@ -11,7 +11,7 @@ This page will serve as a notes platform to track helpful things to be aware of.
 # Helpful Commands
 ```
 # launches the public folder using live server
-$ live-server public
+$ yarn run serve
 
 # Uses babel to convert JSX to JS in output folder located at public/scripts
 $ babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
